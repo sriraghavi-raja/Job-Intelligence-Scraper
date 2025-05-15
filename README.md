@@ -7,7 +7,24 @@
 
 A powerful web scraping tool that extracts job listings and performs intelligent analysis using NLP, with both CLI and GUI interfaces.
 
-![Screenshot](https://via.placeholder.com/800x400?text=Job+Intelligence+Scraper+Screenshot)
+## CLI
+
+![image](https://github.com/user-attachments/assets/004193ed-809e-48c0-9ac2-6b968ba63ffc)
+
+# CSV_FILE
+
+![image](https://github.com/user-attachments/assets/a255314f-a600-4665-8cc8-84163b233b76)
+
+
+
+##  GUI
+![WhatsApp Image 2025-05-15 at 23 36 21_c01fb44a](https://github.com/user-attachments/assets/f14c814f-2b0d-4ed5-b45e-2df5070c5b86)
+
+
+![WhatsApp Image 2025-05-15 at 23 36 39_8bb80776](https://github.com/user-attachments/assets/d9bd8b2e-9a18-48ce-9613-791a90f2f07b)
+
+![WhatsApp Image 2025-05-15 at 23 36 51_ddd1f421](https://github.com/user-attachments/assets/041249e1-d2ac-4d1e-8795-f2b6b5463a27)
+
 
 ## Features ✨
 
